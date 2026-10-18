@@ -1,0 +1,20 @@
+NEXTID	5
+REST	1	Mom's Kitchen	Thai Food	1.2	true
+MENU	1	Basil Pork with Fried Egg	60.0
+MENU	2	Shrimp Fried Rice	70.0
+MENU	3	Tom Yum Goong	120.0
+MENU	4	Pad Thai with Fresh Shrimp	80.0
+REST	2	Burger Garage	Fast Food	3.5	true
+MENU	1	Beef Cheeseburger	149.0
+MENU	2	French Fries	59.0
+MENU	3	Chicken Nuggets (6 pcs)	79.0
+MENU	4	Cola	25.0
+REST	3	Sakura Sushi	Japanese	5.8	true
+MENU	1	Salmon Sushi (4 pcs)	129.0
+MENU	2	Tonkotsu Ramen	189.0
+MENU	3	Chicken Teriyaki Rice Bowl	99.0
+MENU	4	Iced Green Tea	35.0
+REST	4	Famous Bubble Tea	Drinks & Desserts	0.8	true
+MENU	1	Bubble Milk Tea	45.0
+MENU	2	Matcha Green Tea	55.0
+MENU	3	Iced Cocoa	50.0

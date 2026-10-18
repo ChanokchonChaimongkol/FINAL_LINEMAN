@@ -1,0 +1,2 @@
+ORDER	1001	chain	44-55-66	2	Burger Garage	149.0	23.0	23.0	PromptPay	2026-10-18T15:03:17.574633500	PENDING	
+ITEM	1	Beef Cheeseburger	149.0	1

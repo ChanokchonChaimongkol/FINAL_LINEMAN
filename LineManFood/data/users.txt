@@ -1,0 +1,2 @@
+USER	admin	bf6b5bdb74c79ece9fc0ad0ac9fb0359f9555d4f35a83b2e6ec69ae99e09603d	System Administrator	-	ADMIN	true
+USER	chain	3abb2406bd599563a809723bb27e246511be97465f5b2262dfa7c78f102bf58e	ccaa	44-55-66	CUSTOMER	true
